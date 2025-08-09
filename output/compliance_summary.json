@@ -1,0 +1,34 @@
+{
+  "process": "Licensing",
+  "documents_uploaded": 5,
+  "required_documents": 11,
+  "missing_documents": [
+    "Board Resolution appointing authorised signatory",
+    "Ultimate Beneficial Owner (UBO) declaration",
+    "Office Lease Agreement / Flexi-desk contract",
+    "AML/CTF Policy & Procedures",
+    "Data Protection Policy",
+    "Compliance/Operations Manual"
+  ],
+  "compliance_score": 25,
+  "issues_found": [
+    {
+      "document": "AML/CTF Policy & Procedures",
+      "section": "Clause 8.1",
+      "issue": "Draft policy is incomplete.  Finalised version required for compliance.",
+      "severity": "Critical"
+    },
+    {
+      "document": "Data Protection Policy",
+      "section": "Clause 9.2",
+      "issue": "Policy not yet prepared.  Alignment with ADGM DPR 2021 is mandatory.",
+      "severity": "Critical"
+    },
+    {
+      "document": "Compliance/Operations Manual",
+      "section": "Not specified",
+      "issue": "Missing essential document for demonstrating ongoing compliance.",
+      "severity": "Critical"
+    }
+  ]
+}
