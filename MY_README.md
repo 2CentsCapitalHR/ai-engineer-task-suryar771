@@ -83,10 +83,8 @@ json
 
 ![ADGM Compliance o/p](assets/image.png)
 
-
-
-
-Demo Video
-[Download and Watch Demo](https://drive.google.com/file/d/12br64SZzXfyDzqaH3xEs4dmiqyaX5-YI/view?usp=sharing)
-
+<video width="600" controls>
+  <source src="assets/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
