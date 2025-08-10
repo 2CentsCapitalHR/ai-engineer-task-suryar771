@@ -90,3 +90,7 @@ Demo Video
 [Download and Watch Demo](https://www.dropbox.com/scl/fi/usei066w7wxj1vjtiik7i/demo.mp4?rlkey=b2vvd683mmdrxcckbvr7knwjd&st=p8v6alxx&dl=0)
 
 
+![INPUT FILE](input/input.docx)
+![OUTPUT FILE](output/compliance_summary.json)
+
+
